@@ -1,2 +1,2 @@
-# Desarrollo-Web-Entorno-Cliente
+# Desarrollo-web-entorno-cliente
 JavaScript, HTML, CSS
